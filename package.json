@@ -17,7 +17,7 @@
     "css-loader": "^0.23.1",
     "file-loader": "^0.8.5",
     "json-loader": "^0.5.4",
-    "lazysizes": "^2.0.0",
+    "lazysizes": "^5.2.2",
     "lodash": "^4.12.0",
     "materialize-css": "^0.97.6",
     "min": "^0.1.15",
